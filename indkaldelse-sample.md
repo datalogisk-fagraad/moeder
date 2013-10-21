@@ -5,6 +5,6 @@
 0. Formalia
   0. Valg af dirigent og referent
 1. Siden sidst
-{{ punkter }}
+2. {{ punkter }}
 
 -1. Evt.
